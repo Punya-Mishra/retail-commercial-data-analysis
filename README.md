@@ -27,7 +27,7 @@ The findings from both datasets are compared to determine whether they provide c
 ├── shopping_trends_dataset_2.csv # Second public retail dataset
 ├── README.md                     # Project documentation
 ├── .gitignore                    # Files excluded from version control
-
+```
 ## Data Sources
 
 Both datasets are publicly available and their original sources are documented within the project and final report.
