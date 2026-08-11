@@ -22,11 +22,12 @@ The findings from both datasets are compared to determine whether they provide c
 ## Repository Structure
 
 ```text
-├── high_value_purchases.py       # Data cleaning, analysis, and machine learning workflow
-├── sales_dataset_1.csv           # First public retail dataset
-├── shopping_trends_dataset_2.csv # Second public retail dataset
-├── README.md                     # Project documentation
-├── .gitignore                    # Files excluded from version control
+├── high_value_purchases/
+│   ├── high_value_purchases.py       # Data cleaning, analysis, and machine learning workflow
+│   ├── sales_dataset_1.csv           # First public retail dataset
+│   └── shopping_trends_dataset_2.csv # Second public retail dataset
+├── README.md                          # Project documentation
+├── .gitignore                         # Files excluded from version control
 ```
 ## Data Sources
 
